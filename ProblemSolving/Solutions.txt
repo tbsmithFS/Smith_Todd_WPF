@@ -3,4 +3,9 @@ Todd Smith
 WPF
 Problem Solving
 
+A Cat, a Parrot, and a Bag of Seed:
+A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He needs to transport all three to the other side of the river in his boat. However, the boat has room for only the man himself and one other item: either the cat, parrot or seed). In his absence, the cat could eat the parrot, and the parrot would eat the seed. Show how he can get all the passengers to the other side, without leaving the wrong ones alone together.
 
+
+1) Define the problem.
+    a) In this problem we start with three objects all in Category A. We would like to recategorize each object to category B, wihout ever having certain pairs of objects in the same category. With objects C, P, and S, we are not allowed to have the pairs CP or PS both in the same category at the same time.
