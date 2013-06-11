@@ -9,3 +9,7 @@ A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He ne
 
 1) Define the problem.
     a) In this problem we start with three objects all in Category A. We would like to recategorize each object to category B, wihout ever having certain pairs of objects in the same category. With objects C, P, and S, we are not allowed to have the pairs CP or PS both in the same category at the same time.
+    b) For insight, I ignore most of the words and think in terms of symbols, sets and relationships.
+    c) The goal is to recatgorize each object while adhereing to the constraints mentioned in part a).
+
+2)
