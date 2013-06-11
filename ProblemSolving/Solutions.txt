@@ -19,10 +19,19 @@ A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He ne
 3) Identify potential solutions
     a) We can let category A be 'on the first shore without the man' and category B be 'on the second shore without the man'. 
 
-i) To recategorize object C, we could put C and S into category A and P into category B. Then we remove the category from C, and add it to category B while simultaneously removing the category from object P.
+i) To recategorize object C, we could put C and S into category A and P into category B. Then we remove the category from C, and add it to category B while simultaneously removing the category from object P. 
 
 ii) To recategorize object P, we can just put it into category B and have objects C and S in category A.
 
 iii) To recategorize object S, we can start with C and S in cat A and P in cat B. Then remove the cat from S, and give S cat B while simultaneously removing cat B from P.
 
+4) Evaluate each potential solution
+    a) Each solution meets its sub-goal and their combination wll meet the overall goal.
+    b) No sub-solution will work for all cases.
 
+5) Choose a solution and develop a plan to implement it.
+    a) My solution is to start with S and C in cat A and P in cat B. Then remove C from cat A, and give it cat B while simultaneously removing P from cat B. Then give P cat A while simultaneously removing S from cat A. Give S cat B. Then remove P from cat A and remove all categories from all objects.
+    In other words, take the parrot to the other shore, come back and get the cat, take it to the other shore and get the parrot. Tka ethe parrot back and leave it at the first shore while getting the seed. Take the seed to the second shore. Come back to get the parrot. 
+    The key to finding the solution was to realize that the parrot was the main problem. He couldn't be left alone with any other thing. While always focusing on the parrot, I was able to find a combination of sub-solutions that combined to meet the overall goal.
+    b) To test my solution, I tore a note-card into three peices and marked them P, S, and C. 
+    Here's a video:  http://youtu.be/lQop6zyXqCA
