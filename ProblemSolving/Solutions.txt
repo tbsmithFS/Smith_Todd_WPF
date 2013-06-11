@@ -12,4 +12,6 @@ A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He ne
     b) For insight, I ignore most of the words and think in terms of symbols, sets and relationships.
     c) The goal is to recatgorize each object while adhereing to the constraints mentioned in part a).
 
-2)
+2) Break the problem apart
+    a) The constraints are that we can't have the pairs CP or PS in the same category at the same time.
+    b) The sub goals could be to recategorize each individual object within the aforementioned constraints.
