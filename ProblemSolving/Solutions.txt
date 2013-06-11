@@ -15,3 +15,14 @@ A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He ne
 2) Break the problem apart
     a) The constraints are that we can't have the pairs CP or PS in the same category at the same time.
     b) The sub goals could be to recategorize each individual object within the aforementioned constraints.
+
+3) Identify potential solutions
+    a) We can let category A be 'on the first shore without the man' and category B be 'on the second shore without the man'. 
+
+i) To recategorize object C, we could put C and S into category A and P into category B. Then we remove the category from C, and add it to category B while simultaneously removing the category from object P.
+
+ii) To recategorize object P, we can just put it into category B and have objects C and S in category A.
+
+iii) To recategorize object S, we can start with C and S in cat A and P in cat B. Then remove the cat from S, and give S cat B while simultaneously removing cat B from P.
+
+
