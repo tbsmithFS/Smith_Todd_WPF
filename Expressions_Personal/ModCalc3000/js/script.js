@@ -15,7 +15,7 @@ while (exitLoop == false) {
         console.log(" m [" + m + "] <= r [" + r + "]" );
         exitLoop = true;
     }
-         console.log("at the end of the while loop, this time exitLoop is " + exitLoop);
+    console.log("at the end of the while loop, this time exitLoop is " + exitLoop);
 }
 
 
